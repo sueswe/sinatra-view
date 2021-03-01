@@ -3,10 +3,14 @@ body
 	line-height: 1.6em;
 }
 
+p {
+  font-family: courier;
+}
+  
 h1 {
   color: #2A1959;
   border-bottom: 2px solid #2A1959;
-  font-family: sans-serif verdana;
+  font-family: verdana;
 }
 
 h2 {
